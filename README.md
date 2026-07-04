@@ -4,17 +4,17 @@
 
 推荐发布方式：
 
-1. 将 `docs/` 提交到 GitHub 仓库。
+1. 将本目录内容提交到 GitHub 仓库。
 2. 在 GitHub 仓库进入 `Settings` → `Pages`。
 3. `Build and deployment` 选择 `Deploy from a branch`。
-4. `Branch` 选择主分支，目录选择 `/docs`。
+4. `Branch` 选择 `main`，目录选择 `/root`。
 5. 保存后等待 GitHub Pages 发布。
 
-发布后通常得到如下地址：
+发布后通常得到如下地址，本仓库对应：
 
-- 隐私政策：`https://<github用户名>.github.io/<仓库名>/privacy.html`
-- 用户协议：`https://<github用户名>.github.io/<仓库名>/terms.html`
-- 联系支持：`https://<github用户名>.github.io/<仓库名>/support.html`
+- 隐私政策：`https://16871233.github.io/gemiaiIOS/privacy.html`
+- 用户协议：`https://16871233.github.io/gemiaiIOS/terms.html`
+- 联系支持：`https://16871233.github.io/gemiaiIOS/support.html`
 
 App Store Connect 中：
 
